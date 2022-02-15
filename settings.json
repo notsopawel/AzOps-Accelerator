@@ -31,7 +31,8 @@
                 "Microsoft.PowerPlatform/accounts",
                 "Microsoft.PowerPlatform/enterprisePolicies",
                 "microsoft.visualstudio/account",
-                "Microsoft.VSOnline/plans"
+                "Microsoft.VSOnline/plans",
+                "microsoft.operationalinsights"
             ],
             "Core.SkipRole": false,
             "Core.SubscriptionsToIncludeResourceGroups": "*",
